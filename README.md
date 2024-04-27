@@ -64,5 +64,3 @@ You can modify the server settings, such as the listening address and port, in t
 ## How It Works
 
 The server utilizes a thread pool to handle incoming connections concurrently. When a client connects, a worker thread from the pool is assigned to handle the connection. This allows the server to process multiple requests simultaneously without blocking.
-# multi_thread_server
-# multi_thread_server
